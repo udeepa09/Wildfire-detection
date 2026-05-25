@@ -1,4 +1,4 @@
-# 🔥 Wildfire Detection System
+# Wildfire Detection System
 
 ##  Overview
 This project is an AI-based system that detects fire and smoke from images.  
@@ -15,7 +15,7 @@ It helps in early wildfire detection and reduces environmental damage by providi
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - Streamlit  
 - YOLO   
@@ -23,7 +23,7 @@ It helps in early wildfire detection and reduces environmental damage by providi
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 1. User uploads an image or provides a URL  
 2. Image is preprocessed  
 3. Model analyzes the image  
